@@ -1328,5 +1328,62 @@
         "author": "Josh Gallant",
         "date": "March 1st, 2022"
       }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "here",
+        "author": "me",
+        "genre": "Science",
+        "edition": "2021",
+        "publisher": "ramzan",
+        "cost": "499",
+        "borrowed": false,
+        "id": 2
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "here",
+        "author": "me",
+        "genre": "Science",
+        "edition": "2021",
+        "publisher": "ramzan",
+        "cost": "499",
+        "borrowed": false,
+        "id": 3
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "hereddfacv",
+        "author": "medfa",
+        "genre": "Science",
+        "edition": "2020",
+        "publisher": "ramzanfadac",
+        "cost": "49",
+        "borrowed": false,
+        "id": 0.33302490683766206
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "the dkna",
+        "author": "idbafd",
+        "genre": "Fiction",
+        "edition": "2020",
+        "publisher": "mibdfadk",
+        "cost": "233",
+        "borrowed": false,
+        "id": 4
+      }
     ]
   }
